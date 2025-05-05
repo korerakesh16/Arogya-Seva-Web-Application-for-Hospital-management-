@@ -42,7 +42,6 @@ public class AppointmentDao {
 			e.printStackTrace(); 
 		}
 		
-		
 		return f ;
 	}
 	
