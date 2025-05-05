@@ -15,7 +15,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
                         
         
-        <property name="java-output-path" value="/Hospital_Servlet1/target/classes"/>
+        <property name="java-output-path" value="/target/classes"/>
         <property name="context-root" value="Arogya_Seva_"/>
                     
     
