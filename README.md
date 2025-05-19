@@ -8,14 +8,14 @@ View Doctor Schedules and Patient Records
 Change Password Functionality for Users
 Admin Dashboard for Hospital Oversight
 
-Technologies Used:
+## Technologies Used:
 Front-End:
 HTML5
 CSS3
 Bootstrap
 JSP (JavaServer Pages)
 
-Back-End:
+## Back-End:
 Java (JDK 18+)
 Servlets
 JDBC
