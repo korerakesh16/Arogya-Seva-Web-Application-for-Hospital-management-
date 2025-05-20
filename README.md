@@ -20,7 +20,7 @@ Java (JDK 18+)
 Servlets
 JDBC
 
-Database:
+## Database:
 MySQL
 
 Build and Deployment Tools:
