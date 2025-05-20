@@ -23,12 +23,12 @@ JDBC
 ## Database:
 MySQL
 
-Build and Deployment Tools:
+## Build and Deployment Tools:
 Apache Maven
 Apache Tomcat 8.5+
 Eclipse IDE (Enterprise Edition)
 
-Software Requirements:
+## Software Requirements:
 Java JDK 18+
 Eclipse EE IDE
 Apache Tomcat v8.5+
