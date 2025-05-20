@@ -1,23 +1,23 @@
 ## Arogya Seva – Hospital Management System (Java Web Application)
 Arogya Seva is a full-stack web-based hospital management system designed to streamline and digitize hospital operations. It helps manage doctors, patients, appointments, and other essential medical records through an interactive dashboard for admins, doctors, and receptionists.
 ## Key Features
-Separate Login for Admin, Doctor, and User
-Add, Edit, and Delete Doctor and Appointment Details
-Appointment Booking and Management
-View Doctor Schedules and Patient Records
-Change Password Functionality for Users
-Admin Dashboard for Hospital Oversight
+Separate Login for Admin, Doctor, and User  
+Add, Edit, and Delete Doctor and Appointment Details  
+Appointment Booking and Management  
+View Doctor Schedules and Patient Records  
+Change Password Functionality for Users  
+Admin Dashboard for Hospital Oversight  
 
 ## Technologies Used:
 ## Front-End:
 HTML5,  
-CSS3,
-Bootstrap,
+CSS3,  
+Bootstrap,  
 JSP (JavaServer Pages).
 
 ## Back-End:
-Java (JDK 18+),
-Servlets,
+Java (JDK 18+),  
+Servlets,  
 JDBC.
 
 ## Database:
