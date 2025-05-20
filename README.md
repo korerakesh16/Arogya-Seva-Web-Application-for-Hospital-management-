@@ -10,7 +10,7 @@ Admin Dashboard for Hospital Oversight
 
 ## Technologies Used:
 ## Front-End:
-HTML5,
+HTML5,  
 CSS3,
 Bootstrap,
 JSP (JavaServer Pages).
