@@ -29,38 +29,37 @@ Apache Tomcat 8.5+
 Eclipse IDE (Enterprise Edition)
 
 ## Software Requirements:
-Java JDK 18+
-Eclipse EE IDE
-Apache Tomcat v8.5+
-MySQL Server & MySQL Workbench
+Java JDK 18+  
+Eclipse EE IDE  
+Apache Tomcat v8.5+  
+MySQL Server & MySQL Workbench  
 
 
-How to Run the Project:
-Step 1: Clone the Repository:
-git clone https://github.com/your-username/arogya-seva.git
+## How to Run the Project:
+## Step 1: Clone the Repository:
+git clone https://github.com/your-username/arogya-seva.git  
 
-Step 2: Import the Project into Eclipse:
-File > Import > Maven > Existing Maven Project > Select project folder
+## Step 2: Import the Project into Eclipse:
+File >   Import >   Maven >   Existing Maven Project >   Select project folder
 
-Step 3: Configure Database:
-Create a database in MySQL (e.g., arogya_db)
+## Step 3: Configure Database:
+Create a database in MySQL (e.g., arogya_db)  
 
 Import SQL tables if provided, or create based on the DAO/entity classes
 
-Step 4: Update DB Configuration:
-In DAO or DBConnection.java, update your:
-Database name
-username
-
+## Step 4: Update DB Configuration:
+In DAO or DBConnection.java, update your:  
+Database name  
+username  
 password
-Step 5: Build and Deploy:
-Right-click project > Run As > Maven Build > Goal: clean install
+## Step 5: Build and Deploy:
+Right-click project >   Run As >   Maven Build >   Goal: clean install  
 
-Right-click project > Run on Server > Select Apache Tomcat
+Right-click project >   Run on Server >   Select Apache Tomcat
 
-Step 6: Open in Browser:
-http://localhost:8080/Arogya_Seva/
-Author:
-Kore Rakesh
+## Step 6: Open in Browser:
+http://localhost:8080/Arogya_Seva/  
+Author:  
+Kore Rakesh  
 
 Free for academic and educational use. Contributions welcome!
