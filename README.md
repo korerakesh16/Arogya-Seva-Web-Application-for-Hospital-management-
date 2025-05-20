@@ -9,16 +9,16 @@ Change Password Functionality for Users
 Admin Dashboard for Hospital Oversight
 
 ## Technologies Used:
-Front-End:
-HTML5
-CSS3
-Bootstrap
-JSP (JavaServer Pages)
+## Front-End:
+HTML5,
+CSS3,
+Bootstrap,
+JSP (JavaServer Pages).
 
 ## Back-End:
-Java (JDK 18+)
-Servlets
-JDBC
+Java (JDK 18+),
+Servlets,
+JDBC.
 
 ## Database:
 MySQL
