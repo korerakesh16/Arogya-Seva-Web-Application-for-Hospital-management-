@@ -6,7 +6,7 @@ Add, Edit, and Delete Doctor and Appointment Details
 Appointment Booking and Management  
 View Doctor Schedules and Patient Records  
 Change Password Functionality for Users  
-Admin Dashboard for Hospital Oversight  
+Admin Dashboard for Hospital Oversight   
  
 ## Technologies Used:
 ## Front-End:
